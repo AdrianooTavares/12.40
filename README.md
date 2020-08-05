@@ -1,4 +1,4 @@
-# 12.40
+# Patch 12.40
 Items + Monstros.
 
 Creditos:
