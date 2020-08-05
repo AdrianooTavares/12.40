@@ -1,0 +1,17 @@
+	<!-- 12.40 -->
+	<wand id="39892" level="270" mana="20" min="85" max="105" type="ice">
+	<vocation name="Druid" />
+	</wand>
+	
+	<wand id="39893" level="220" mana="21" min="89" max="109" type="ice">
+	<vocation name="Sorcerer" />
+	</wand>
+	
+	<wand id="39838" level="400" mana="21" min="98" max="118" type="ice">
+	<vocation name="Druid" />
+	</wand>
+	
+	<wand id="39837" level="400" mana="22" min="100" max="120" type="death">
+	<vocation name="Sorcerer" />
+	</wand>
+	<!-- 12.40 -->

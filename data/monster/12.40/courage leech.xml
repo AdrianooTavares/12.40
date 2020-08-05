@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Courage Leech" nameDescription="a courage leech" race="fire" experience="29900" speed="310">
+	<health now="27000" max="27000" />
+	<look type="1315" corpse="39708" />
+	<targetchange interval="4000" chance="20" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="70" />
+		<flag runonhealth="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="-500" max="-1150" />	
+		<attack name="energy" interval="2000" chance="25" range="7" radius="4" target="1" min="-470" max="-1100">
+			<attribute key="shootEffect" value="energy" />
+			<attribute key="areaEffect" value="energyarea" />
+		</attack>		
+		<attack name="energy" interval="2000" chance="15" range="1" min="-700" max="-1500">
+			<attribute key="shootEffect" value="energy" />
+		</attack>
+	</attacks>
+	<defenses armor="50" defense="60">
+		<defense name="healing" interval="2000" chance="25" min="290" max="490">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>		
+	</defenses>
+	<elements>
+		<element physicalPercent="-20" />
+		<element deathPercent="-25" />	
+		<element earthPercent="-20" />
+		<element icePercent="-30" />
+		<element holyPercent="-50" />
+	</elements>
+	<immunities>
+		<immunity fire="1" />
+		<immunity drown="1" />
+		<immunity lifedrain="1" />
+		<immunity paralyze="1" />
+		<immunity invisible="1" />
+	</immunities>	
+	<voices interval="5000" chance="10">
+		<voice sentence="Zap! Zap!" />
+	</voices>
+	<loot>
+		<item id="2152" countmax="18" chance="1180" /> <!-- Platinum Coin -->
+		<item id="8473" countmax="8" chance="1180" /> <!-- Ultimate Health Potion -->
+		<item id="7895" chance="4200" /> <!-- Lightning Legs -->
+		<item id="7901" chance="5700" /> <!-- Lightning Headband -->
+		<item id="2179" chance="3300" /> <!-- Gold Ring -->
+		<item id="7422" chance="2400" /> <!-- Jade Hammer -->
+		<item id="2444" chance="2100" /> <!-- Hammer of Wrath -->
+		<item id="7382" chance="1900" /> <!-- Demonrage Sword -->
+		<item id="7412" chance="1700" /> <!-- Butcher's Axe -->
+		<item id="7418" chance="1400" /> <!-- Nightmare Blade -->
+		<item id="7419" chance="1100" /> <!-- Dreaded Cleaver -->
+		<item id="7421" chance="1200" /> <!-- Onyx Flail -->
+		<item id="12613" chance="1300" /> <!-- Twiceslicer -->
+	</loot>
+</monster>

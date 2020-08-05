@@ -1,0 +1,342 @@
+<!-- www.otfacil.com.br 12.40 -->
+	<item id="39899" article="a" name="lion amulet">
+	<attribute key="slotType" value="necklace" />
+	<attribute key="quicklootcategory" value="amulet" />
+	<attribute key="armor" value="3" />
+	<attribute key="weight" value="520" />
+	<attribute key="absorbPercentIce" value="7" />
+	<attribute key="absorbPercentPhysical" value="3" />
+	</item>
+	
+	<item id="39827" article="a" name="lion ring">
+	<attribute key="slotType" value="ring" />
+	<attribute key="quicklootcategory" value="ring" />
+	<attribute key="weight" value="40" />
+	</item>
+	
+	<item id="39898" article="a" name="lion plate">
+	<attribute key="slotType" value="body" />
+	<attribute key="quicklootcategory" value="armor" />
+	<attribute key="armor" value="17" />
+	<attribute key="weight" value="15000" />
+	<attribute key="absorbPercentPhysical" value="6" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillSword" value="3" />
+	<attribute key="skillAxe" value="3" />
+	<attribute key="skillClub" value="3" />
+	</item>
+	
+	<item id="39842" article="a" name="soulmantel">
+	<attribute key="slotType" value="body" />
+	<attribute key="quicklootcategory" value="armor" />
+	<attribute key="armor" value="17" />
+	<attribute key="weight" value="2400" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="4" />
+	<attribute key="absorbPercentPhysical" value="4" />
+	</item>
+	
+	<item id="39841" article="a" name="soulshell">
+	<attribute key="slotType" value="body" />
+	<attribute key="quicklootcategory" value="armor" />
+	<attribute key="armor" value="18" />
+	<attribute key="weight" value="12300" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillDist" value="4" />
+	<attribute key="absorbPercentPhysical" value="3" />
+	<attribute key="absorbPercentFire" value="15" />
+	</item>
+	
+	<item id="39843" article="a" name="soulshroud">
+	<attribute key="slotType" value="body" />
+	<attribute key="quicklootcategory" value="armor" />
+	<attribute key="armor" value="17" />
+	<attribute key="weight" value="2400" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="4" />
+	<attribute key="absorbPercentDeath" value="10" />
+	</item>
+	
+	<item id="39845" article="a" name="pair of soulstalkers">
+	<attribute key="slotType" value="feet" />
+	<attribute key="quicklootcategory" value="boots" />
+	<attribute key="armor" value="3" />
+	<attribute key="weight" value="1300" />
+	<attribute key="imbuingSlots" value="1" />
+	<attribute key="skillDist" value="1" />
+	<attribute key="speed" value="20" />
+	<attribute key="absorbPercentPhysical" value="5" />
+	</item>
+	
+	<item id="39844" article="a" name="pair of soulwalkers">
+	<attribute key="slotType" value="feet" />
+	<attribute key="quicklootcategory" value="boots" />
+	<attribute key="armor" value="4" />
+	<attribute key="weight" value="1300" />
+	<attribute key="imbuingSlots" value="1" />
+	<attribute key="skillSword" value="1" />
+	<attribute key="skillAxe" value="1" />
+	<attribute key="skillClub" value="1" />
+	<attribute key="speed" value="15" />
+	<attribute key="absorbPercentPhysical" value="7" />
+	<attribute key="absorbPercentFire" value="5" />
+	</item>
+	
+	<item id="39891" article="a" name="lion longbow">
+	<attribute key="weaponType" value="distance" />
+	<attribute key="quicklootcategory" value="weapondistance" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="hitChance" value="6" />
+	<attribute key="attack" value="6" />
+	<attribute key="weight" value="4800" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="range" value="6" />
+	</item>
+	
+	<item id="39835" article="a" name="soulbleeder">
+	<attribute key="weaponType" value="distance" />
+	<attribute key="quicklootcategory" value="weapondistance" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="attack" value="8" />
+	<attribute key="hitChance" value="5" />
+	<attribute key="weight" value="4700" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="range" value="6" />
+	</item>
+	
+	<item id="39836" article="a" name="soulpiercer">
+	<attribute key="weaponType" value="distance" />
+	<attribute key="quicklootcategory" value="weapondistance" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="attack" value="9" />
+	<attribute key="hitChance" value="6" />
+	<attribute key="weight" value="4000" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="range" value="6" />
+	</item>
+	
+	<item id="39839" article="a" name="soulshanks">
+	<attribute key="quicklootcategory" value="legs" />
+	<attribute key="slotType" value="legs" />
+	<attribute key="armor" value="10" />
+	<attribute key="weight" value="3800" />
+	<!-- <attribute key="imbuingSlots" value="0" /> -->
+	<attribute key="magiclevelpoints" value="3" />
+	<attribute key="absorbPercentDeath" value="10" />
+	</item>
+	
+	<item id="39840" article="a" name="soulstrider">
+	<attribute key="quicklootcategory" value="legs" />
+	<attribute key="slotType" value="legs" />
+	<attribute key="armor" value="10" />
+	<attribute key="weight" value="3800" />
+	<!-- <attribute key="imbuingSlots" value="0" /> -->
+	<attribute key="magiclevelpoints" value="3" />
+	<attribute key="absorbPercentFire" value="10" />
+	</item>
+	
+	<item id="39897" article="a" name="lion spangenhelm">
+	<attribute key="slotType" value="head" />
+	<attribute key="quicklootcategory" value="helmet" />
+	<attribute key="armor" value="7" />
+	<attribute key="weight" value="3000" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillDist" value="2" />
+	<attribute key="absorbPercentEarth" value="5" />
+	<attribute key="absorbPercentPhysical" value="3" />
+	</item>
+	
+	<item id="39895" article="a" name="lion shield">
+	<attribute key="weaponType" value="shield" />
+	<attribute key="quicklootcategory" value="shield" />
+	<attribute key="defense" value="39" />
+	<attribute key="absorbPercentPhysical" value="7" />
+	<attribute key="absorbPercentEarth" value="10" />
+	<attribute key="weight" value="6500" />
+	<attribute key="imbuingSlots" value="1" />
+	</item>
+	
+	<item id="39894" article="a" name="lion spellbook">
+	<attribute key="weaponType" value="shield" />
+	<attribute key="quicklootcategory" value="shield" />
+	<attribute key="defense" value="20" />
+	<attribute key="magiclevelpoints" value="4" />
+	<attribute key="absorbPercentPhysical" value="3" />
+	<attribute key="absorbPercentIce" value="7" />
+	<attribute key="weight" value="2500" />
+	<attribute key="imbuingSlots" value="1" />
+	</item>
+	
+	<item id="39846" article="a" name="soulbastion">
+	<attribute key="weaponType" value="shield" />
+	<attribute key="quicklootcategory" value="shield" />
+	<attribute key="defense" value="42" />
+	<attribute key="absorbPercentPhysical" value="10" />
+	<attribute key="absorbPercentDeath" value="10" />
+	<attribute key="weight" value="5800" />
+	<attribute key="imbuingSlots" value="1" />
+	</item>
+	
+	<item id="39992" article="a" name="lion hammer">
+	<attribute key="weaponType" value="club" />
+	<attribute key="quicklootcategory" value="weaponclub" />
+	<attribute key="attack" value="8" />
+	<attribute key="elementEarth" value="44" />
+	<attribute key="defense" value="31" />
+	<attribute key="extradef" value="2" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillClub" value="3" />
+	<attribute key="weight" value="6500" />
+	</item>
+	
+	<item id="39833" article="a" name="soulcrusher">
+	<attribute key="weaponType" value="club" />
+	<attribute key="quicklootcategory" value="weaponclub" />
+	<attribute key="attack" value="6" />
+	<attribute key="elementIce" value="46" />
+	<attribute key="defense" value="33" />
+	<attribute key="extradef" value="3" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillClub" value="5" />
+	<attribute key="skilllifeamount" value="5" />
+	<attribute key="skillmanaamount" value="3" />
+	<attribute key="weight" value="4100" />
+	</item>
+	
+	<item id="39834" article="a" name="soulmaimer">
+	<attribute key="weaponType" value="club" />
+	<attribute key="quicklootcategory" value="weaponclub" />
+	<attribute key="attack" value="10" />
+	<attribute key="elementEnergy" value="47" />
+	<attribute key="defense" value="35" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="skillClub" value="5" />
+	<attribute key="skillcriticalchance" value="10" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="weight" value="7200" />
+	</item>
+	
+	<item id="39896" article="a" name="lion longsword">
+	<attribute key="weaponType" value="sword" />
+	<attribute key="quicklootcategory" value="weaponsword" />
+	<attribute key="attack" value="8" />
+	<attribute key="elementEarth" value="44" />
+	<attribute key="defense" value="31" />
+	<attribute key="extradef" value="2" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillSword" value="3" />
+	<attribute key="weight" value="7500" />
+	</item>
+		
+	<item id="39829" article="a" name="soulcutter">
+	<attribute key="weaponType" value="sword" />
+	<attribute key="quicklootcategory" value="weaponsword" />
+	<attribute key="attack" value="7" />
+	<attribute key="elementDeath" value="45" />
+	<attribute key="defense" value="32" />
+	<attribute key="extradef" value="3" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillSword" value="5" />
+	<attribute key="skilllifeamount" value="5" />
+	<attribute key="skillmanaamount" value="3" />
+	<attribute key="weight" value="6300" />
+	</item>
+	
+	<item id="39830" article="a" name="soulshredder">
+	<attribute key="weaponType" value="sword" />
+	<attribute key="quicklootcategory" value="weaponsword" />
+	<attribute key="attack" value="10" />
+	<attribute key="elementIce" value="47" />
+	<attribute key="defense" value="35" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="skillSword" value="5" />
+	<attribute key="skillcriticalchance" value="10" />
+	<attribute key="skillcriticaldamage" value="10" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="weight" value="7200" />
+	</item>
+	
+	<item id="39991" article="a" name="lion longsword">
+	<attribute key="weaponType" value="axe" />
+	<attribute key="quicklootcategory" value="weaponaxe" />
+	<attribute key="attack" value="8" />
+	<attribute key="elementEarth" value="44" />
+	<attribute key="defense" value="31" />
+	<attribute key="extradef" value="2" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillaxe" value="3" />
+	<attribute key="weight" value="7900" />
+	</item>
+	
+	<item id="39831" article="a" name="soulbiter">
+	<attribute key="weaponType" value="axe" />
+	<attribute key="quicklootcategory" value="weaponaxe" />
+	<attribute key="attack" value="7" />
+	<attribute key="elementDeath" value="45" />
+	<attribute key="defense" value="32" />
+	<attribute key="extradef" value="3" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="skillAxe" value="5" />
+	<attribute key="skilllifeamount" value="5" />
+	<attribute key="skillmanaamount" value="3" />
+	<attribute key="weight" value="4000" />
+	</item>
+	
+	<item id="39832" article="a" name="souleater (axe)">
+	<attribute key="weaponType" value="axe" />
+	<attribute key="quicklootcategory" value="weaponaxe" />
+	<attribute key="attack" value="10" />
+	<attribute key="elementIce" value="47" />
+	<attribute key="defense" value="34" />
+	<attribute key="imbuingSlots" value="3" />
+	<attribute key="skillaxe" value="5" />
+	<attribute key="skillcriticalchance" value="10" />
+	<attribute key="skillcriticaldamage" value="10" />
+	<attribute key="slotType" value="two-handed" />
+	<attribute key="weight" value="7200" />
+	</item>
+	
+	<item id="39892" article="a" name="lion rod">
+	<attribute key="weaponType" value="wand" />
+	<attribute key="quicklootcategory" value="weaponwand" />
+	<attribute key="shootType" value="smallice" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="2" />
+	<attribute key="skillcriticalchance" value="10" />
+	<attribute key="skillcriticaldamage" value="35" />
+	<attribute key="weight" value="2600" />
+	</item>
+	
+	<item id="39893" article="a" name="lion wand">
+	<attribute key="weaponType" value="wand" />
+	<attribute key="quicklootcategory" value="weaponwand" />
+	<attribute key="shootType" value="smallice" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="2" />
+	<attribute key="skilllifechance" value="100" />
+	<attribute key="skilllifeamount" value="18" />
+	<attribute key="weight" value="2100" />
+	</item>
+	
+	<item id="39838" article="a" name="soulhexer">
+	<attribute key="weaponType" value="wand" />
+	<attribute key="quicklootcategory" value="weaponwand" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="5" />
+	<attribute key="skillmanaamount" value="3" />
+	<attribute key="skilllifeamount" value="5" />
+	<attribute key="absorbPercentIce" value="12" />
+	<attribute key="weight" value="2500" />
+	</item>
+	
+	<item id="39837" article="a" name="soultainter">
+	<attribute key="weaponType" value="wand" />
+	<attribute key="quicklootcategory" value="weaponwand" />
+	<attribute key="imbuingSlots" value="2" />
+	<attribute key="magiclevelpoints" value="5" />
+	<attribute key="skillcriticalchance" value="10" />
+	<attribute key="skillcriticaldamage" value="10" />
+	<attribute key="absorbPercentDeath" value="12" />
+	<attribute key="weight" value="1900" />
+	</item>
+<!-- www.otfacil.com.br 12.40 -->
